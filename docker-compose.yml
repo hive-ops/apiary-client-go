@@ -6,4 +6,4 @@ services:
     image: poph2/apiary:latest
     container_name: apiary-instance-for-client-testing
     ports:
-      - "24681:2468"
+      - "2468:2468"
