@@ -1,7 +1,7 @@
 package client
 
 import (
-	apiaryv1 "github.com/hive-ops/apiary-client-go/pb/apiary/v1"
+	apiaryv1 "github.com/hive-ops/go-apiary/pb/apiary/v1"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"log"

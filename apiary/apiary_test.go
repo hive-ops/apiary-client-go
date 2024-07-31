@@ -2,7 +2,7 @@ package client
 
 import (
 	"context"
-	apiaryv1 "github.com/hive-ops/apiary-client-go/pb/apiary/v1"
+	apiaryv1 "github.com/hive-ops/go-apiary/pb/apiary/v1"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"

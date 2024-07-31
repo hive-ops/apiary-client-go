@@ -1,4 +1,4 @@
-module github.com/hive-ops/apiary-client-go
+module github.com/hive-ops/go-apiary
 
 go 1.22.5
 

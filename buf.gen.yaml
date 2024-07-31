@@ -3,7 +3,7 @@ managed:
   enabled: true
   override:
     - file_option: go_package_prefix
-      value: github.com/hive-ops/apiary-client-go/pb
+      value: github.com/hive-ops/go-apiary/pb
 
 plugins:
   - remote: buf.build/protocolbuffers/go
