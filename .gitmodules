@@ -1,0 +1,3 @@
+[submodule "apiary-proto"]
+	path = apiary-proto
+	url = https://github.com/hive-ops/apiary-proto.git

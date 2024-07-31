@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+
+  apiary:
+    image: poph2/apiary:latest
+    container_name: apiary-instance-for-client-testing
+    ports:
+      - "24681:2468"
